@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+<color name="colorPrimary">@color/theme_bg_after</color>
+<color name="colorPrimaryDark">@color/theme_bg_after</color>
+<color name="colorAccent">#FF4081</color>
+<color name="default_title_bg">#000</color>
+<color name="default_title_color">#eee</color>
+
+<color name="colorBarBg">#FFFFFF</color>
+<color name="colorActive">#FF0000</color>
+<color name="colorInActive">#000000</color>
+<color name="dialogTransparent">#a0000000</color>
+
+<color name="teal">#00796B</color>
+<color name="brown">#8D6E63</color>
+<color name="blue">#2196F3</color>
+<color name="grey">#607D8B</color>
+<color name="grey1">#95969a</color>
+<color name="orange">#F57C00</color>
+<color name="green">#17b03e</color>
+<color name="red">#f53e31</color>
+<color name="deepred">#7e211c</color>
+<color name="lightred">#321f22</color>
+<color name="deepgreen">#0a541c</color>
+<color name="lightgreen">#19302a</color>
+<color name="text_color_green">#2669B5</color>
+<color name="white">#eeeeee</color>
+<color name="white_agrb50">#80eeeeee</color>
+<color name="black">#1b1a1f</color>
+<color name="deepgray">#666666</color>
+<color name="rank_black">#4c4c5a</color>
+<color name="light_white">#eeeeee</color>
+<color name="quizzer_bg">#f5f6f7</color>
+<color name="color_adjustpos_time">#579ae5</color>
+<color name="color_adjustpos_time_argb50">#80579ae5</color>
+
+<!--<color name="stock_quotation_view_bg">#fa4b51</color>-->
+<!--<color name="stock_quotation_text_color">#ffffff</color>-->
+<!--<color name="stock_quotation_default_text_color">#fde5e5</color>-->
+
+<color name="split_line_color">#e6e6e6</color>
+
+<!--design specifications start-->
+<!--文案-->
+<color name="text_color_middle">#626262</color>
+<color name="text_color_light">#999</color>
+<color name="text_color_light_argb50">#80999999</color>
+<color name="text_color_gray">#eee</color>
+<color name="text_color_gray_arg50">#80eeeeee</color>
+<color name="text_color_dark">#333333</color>
+<color name="text_color_middle_dray">#bebebe</color>
+<color name="text_color_blue">#028BE6</color>
+<color name="text_color_black">#3b3b3c</color>
+<color name="text_color_red">#f13930</color>
+<color name="text_color_grey2">#636363 </color>
+
+<!--主色调-->
+<color name="theme_black">#1a1a1f</color>
+<color name="theme_black_argb50">#801a1a1f</color>
+<color name="theme_blue">#528dff</color>
+<color name="theme_red">#f53e31</color>
+<color name="theme_green">#25df82</color>
+<color name="theme_yellow">#fece6b</color>
+<color name="theme_yellow_grey">#af8b42</color>
+<color name="theme_yellow_argb50">#80fece6b</color>
+<!--背景色-->
+<color name="theme_bg_before">#1b1c20</color>
+<color name="theme_bg_after">#121215</color>
+<color name="theme_bg_grey">#F1F2F8</color>
+<color name="theme_bg_dark">#121215</color>
+<color name="default_text_color">#333333</color>
+
+<!--边框色-->
+<color name="theme_border">#121215</color>
+<color name="theme_border1">#222429</color>
+
+
+<!--辅助色-->
+<color name="assist_black_dark">#363840</color>
+<color name="assist_black_light">#303138</color>
+
+<color name="tabbar_checked">#fdc358</color>
+<color name="tabbar_default">#eee</color>
+
+
+<color name="color_yellow_golden">#d3ad60</color>
+<color name="color_blue_whitebg">#4588d5</color>
+
+<color name="color_2e2f33">#2e2f33</color>
+<color name="color_1f2025">#1f2025</color>
+<color name="transparent">#00000000</color>
+<color name="touch_bg">#31323a</color>
+<color name="light_gray">#d9d9d9</color>
+<color name="dark_origin">#FD9250</color>
+<color name="text_color_black_2">#646464</color>
+<color name="theme_bg_grey_f5f6f6">#f5f6f6</color>
+<!--design specifications end-->
+
+<color name="pressed_bg_ebecf2">#ebecf2</color>
+<color name="tag_act_red">#FF4E18</color>
+<color name="area_banner_text_color">#583201</color>
+<color name="area_banner_gb_color">#bb7720</color>
+<color name="area_banner_recommand_color">#fecb62</color>
 </resources>
